@@ -1,8 +1,8 @@
 # ubiquity
 
-The Ubuntu Installer modified for Netrunner. 
+The Ubuntu Installer modified for Maui. 
 
 Main modifications are
-* Kubuntu/Ubuntu strings replaced with Netrunner
-* Installer Icon replaced with a Netrunner one
-* Removed checkboxes for *Downloading Updates* or *Third-Party Codecs* during installation
+* Kubuntu/Ubuntu strings replaced with Maui
+* Installer Icon replaced with a Maui one
+* Skip prepare page
